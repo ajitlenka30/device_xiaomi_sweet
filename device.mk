@@ -108,7 +108,6 @@ PRODUCT_PACKAGES += \
     DeviceSettings \
     init.devicesettings.rc
 
-
 # Camera
 PRODUCT_PACKAGES += \
     GoogleCameraGo
