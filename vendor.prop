@@ -32,8 +32,6 @@ ro.vendor.touchfeature.type=59
 
 ro.vendor.radio.features_common=3
 
-ro.miui.pm.install.buffer.size=49152
-
 ro.vendor.sf.detect.aod.enable=true
 
 rild.libpath=/vendor/lib64/libril-qc-hal-qmi.so
@@ -188,8 +186,6 @@ persist.vendor.radio.force_ltd_sys_ind=1
 persist.vendor.radio.data_ltd_sys_ind=1
 
 ro.vendor.mtp_boost.scheme=true
-
-debug.sf.latch_unsignaled=1
 
 ro.build.shutdown_timeout=2
 persist.vendor.quick.charge=1
